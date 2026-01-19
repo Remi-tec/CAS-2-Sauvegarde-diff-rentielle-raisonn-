@@ -1,4 +1,4 @@
-# CAS-2-Sauvegarde-diff-rentielle-raisonn-
+# CAS-2-Sauvegarde-diff-rentielle-raisonn- Par Kelvia et Remi
 ## 📌 Description
 Ce projet automatise la sauvegarde du répertoire `/work/` vers `/backup/` en utilisant **BorgBackup** pour des sauvegardes **incrémentielles, compressées et sécurisées**. Il inclut également un script Python pour générer des fichiers de test dans `/work/`, afin de simuler un environnement de travail réaliste.
 
