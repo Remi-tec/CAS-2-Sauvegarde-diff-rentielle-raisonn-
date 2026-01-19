@@ -20,8 +20,8 @@ Ce projet automatise la sauvegarde du répertoire `/work/` vers `/backup/` en ut
 ```bash
 sudo apt-get update
 sudo apt-get install -y python3 borgbackup
-```
 
+/
 ├── work/                  # Répertoire source à sauvegarder
 │   ├── fichiers/          # Fichiers générés automatiquement
 │   └── sous-dossiers/     # Sous-dossiers avec fichiers
